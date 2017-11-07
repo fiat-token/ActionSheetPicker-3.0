@@ -699,7 +699,7 @@
 				5DC36DF11FACDA4C00C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		1CCA90591AE0EFB000368F5E /* Build configuration list for PBXNativeTarget "CoreActionSheetPicker" */ = {
 			isa = XCConfigurationList;
@@ -711,7 +711,7 @@
 				5DC36DF21FACDA4C00C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		1CCA905C1AE0EFB000368F5E /* Build configuration list for PBXNativeTarget "CoreActionSheetPickerTests" */ = {
 			isa = XCConfigurationList;
@@ -723,7 +723,7 @@
 				5DC36DF31FACDA4C00C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 /* End XCConfigurationList section */
 	};
